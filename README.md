@@ -18,8 +18,12 @@ Track your daily expenses easily! Add, view, update, and delete expenses with op
 
 ⚡ Installation
 git clone https://github.com/kirthikak77/expense-tracker.git
+
 cd expense-tracker
+
 pip install -r requirements.txt
+
+
 python main.py
 
 💻 Usage
@@ -53,6 +57,4 @@ Open a Pull Request
 📬 Contact
 Kirthika K – GitHub
  – kungumakirthika77@gmail.com
-Kirthika K – GitHub
- – kungumakirthika77@gmail.com
-GitHub: kirthikak77
+
