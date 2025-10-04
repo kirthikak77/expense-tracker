@@ -1,8 +1,9 @@
-Personal Expense Tracker
+💰 Personal Expense Tracker
 
 🚀 Overview
 
-Track your daily expenses easily! Add, view, update, and delete expenses with optional categories and summary reports.
+Easily track your daily expenses!
+Add, view, update, and delete expenses with optional categories and summary reports.
 
 ✨ Features
 
@@ -17,20 +18,16 @@ Track your daily expenses easily! Add, view, update, and delete expenses with op
 📊 Summary Reports: Total spent & by category (optional)
 
 ⚡ Installation
-git clone https://github.com/kirthikak77/expense-tracker.git
-
-cd expense-tracker
-
-pip install -r requirements.txt
-
-
+git clone https://github.com/kirthikak77/expense-tracker.git,
+cd expense-tracker,
+pip install -r requirements.txt,
 python main.py
 
 💻 Usage
 
-Launch the app.
+Launch the app
 
-Select action: Add, View, Update, Delete, or Report.
+Select an action: Add, View, Update, Delete, or Report
 
 Manage your expenses easily!
 
@@ -55,6 +52,16 @@ Push branch: git push origin feature-name
 Open a Pull Request
 
 📬 Contact
+
 Kirthika K – GitHub
  – kungumakirthika77@gmail.com
 
+💡 Tips for a nicer look on GitHub:
+
+Use emojis to highlight sections
+
+Use bold for important text
+
+Use code blocks for commands
+
+Add horizontal lines (---) to separate sections
